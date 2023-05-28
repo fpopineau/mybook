@@ -26,6 +26,7 @@ that is being called.
 Here is a "note" directive:
 
 ```{note}
+:class: dropdown
 Here is a note
 ```
 
