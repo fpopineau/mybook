@@ -1,0 +1,3 @@
+[submodule "book/_build/templates/site/myst/book-theme"]
+	path = book/_build/templates/site/myst/book-theme
+	url = https://github.com/myst-templates/book-theme.git
