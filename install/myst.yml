@@ -1,11 +1,10 @@
-# See docs at: https://myst-tools.org/docs/mystjs/frontmatter
 version: 1
 project:
-  title: Fancy Title 🎩
+  title: MyST Installation 🎩
   # description:
   keywords: []
   authors: []
   github: https://github.com/fpopineau/mybook
   # bibliography: []
-  # thebe:
-  #   lite: true
+  thebe:
+    binder: true

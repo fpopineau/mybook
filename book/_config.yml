@@ -50,15 +50,20 @@ html:
 parse:
   myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
     - amsmath
+    - attrs_inline
     - colon_fence
     - deflist
     - dollarmath
+    - fieldlist
     - html_admonition
     - html_image
     - linkify
     - replacements
     - smartquotes
+    - strikethrough
     - substitution
+    - tasklist
+  myst_heading_anchors: 3
 #######################################################################################
 launch_buttons:
   notebook_interface        : jupyterlab  # The interface interactive links will activate ["classic", "jupyterlab"]
