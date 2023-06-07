@@ -16,6 +16,8 @@ myst:
   heading_anchors: 3
   url_schemes: ['http', 'https', 'mailto', 'ftp', 'doi']
 ---
+
+(install)=
 # How to install MyST, without being mystified 🧙
 
 This is taken from the MyST documentation, and is a good example of how to use MyST.
