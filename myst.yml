@@ -5,8 +5,8 @@ site:
   # title:
   # logo:
   projects:
-    - slug: index
-      path: .
+    # - slug: .
+    #   path: .
     - slug: my-book
       path: book
     - slug: my-install

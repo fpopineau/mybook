@@ -7,5 +7,5 @@ project:
   authors: []
   github: https://github.com/fpopineau/mybook
   # bibliography: []
-  # thebe:
-  #   lite: true
+  thebe:
+    lite: true
