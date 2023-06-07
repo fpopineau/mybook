@@ -13,8 +13,8 @@ authors:
 license: CC-BY-4.0
 keywords: myst, markdown, open-science
 myst:
-    heading_anchors: 3
-    url_schemes: ['http', 'https', 'mailto', 'ftp', 'doi']
+  heading_anchors: 3
+  url_schemes: ['http', 'https', 'mailto', 'ftp', 'doi']
 ---
 # How to install MyST, without being mystified 🧙
 

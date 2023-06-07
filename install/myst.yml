@@ -7,4 +7,5 @@ project:
   github: https://github.com/fpopineau/mybook
   # bibliography: []
   thebe:
-    binder: true
+    # binder: true
+    lite: true

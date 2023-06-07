@@ -19,3 +19,4 @@ parts:
       - file: part2/chapter2/section1
       - file: part2/chapter2/section2
       - file: part2/chapter2/nb1
+      - file: part2/chapter2/02-notebook
