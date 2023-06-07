@@ -26,6 +26,9 @@
     <loc>http://localhost:3000/my-book/nb1</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/my-book/notebook</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/my-install</loc>
   </url>
   <url>
