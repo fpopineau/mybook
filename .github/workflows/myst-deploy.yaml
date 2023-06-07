@@ -15,9 +15,9 @@ jobs:
       - name: Install MyST
         run: npm install -g myst-cli
       - name: Build HTML Assets
-        run: cd book ; myst build --html
+        run: myst build --html
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./book/_build/html
+          publish_dir: ./_build/html
